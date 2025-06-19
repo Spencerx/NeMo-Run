@@ -26,14 +26,14 @@ Installation
 ------------
 To install the project, use the following command:
 
-``pip install git+https://github.com/NVIDIA/NeMo-Run.git``
+``pip install git+https://github.com/NVIDIA-NeMo/Run.git``
 
 To install Skypilot, we have optional features available.
 
-``pip install git+https://github.com/NVIDIA/NeMo-Run.git[skypilot]``
+``pip install git+https://github.com/NVIDIA-NeMo/Run.git[skypilot]``
 will install Skypilot w Kubernetes
 
-``pip install git+https://github.com/NVIDIA/NeMo-Run.git[skypilot-all]``
+``pip install git+https://github.com/NVIDIA-NeMo/Run.git[skypilot-all]``
 will install Skypilot w all clouds
 
 You can also manually install Skypilot from https://skypilot.readthedocs.io/en/latest/getting-started/installation.html
@@ -59,6 +59,6 @@ The ``hello_world`` tutorial series provides a comprehensive introduction to NeM
 
 You can find the tutorial series below:
 
-1. :download:`Part 1 <../../../NeMo-Run/examples/hello-world/hello_world.ipynb>`
-2. :download:`Part 2 <../../../NeMo-Run/examples/hello-world/hello_experiments.ipynb>`
-3. :download:`Part 3 <../../../NeMo-Run/examples/hello-world/hello_scripts.py>`
+1. `Part 1 <../../../NeMo-Run/examples/hello-world/hello_world.ipynb>`
+2. `Part 2 <../../../NeMo-Run/examples/hello-world/hello_experiments.ipynb>`
+3. `Part 3 <../../../NeMo-Run/examples/hello-world/hello_scripts.py>`
